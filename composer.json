@@ -12,11 +12,6 @@
         }
     },
     "license": "MIT",
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.0.1"
-        }
-    },
     "authors": [
         {
             "name": "German Gonzalez",
