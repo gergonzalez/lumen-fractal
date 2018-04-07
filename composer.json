@@ -1,5 +1,5 @@
 {
-    "name": "gergonzalez/laravel-fractal",
+    "name": "gergonzalez/lumen-fractal",
     "description": "League Fractal Wrapper",
     "type": "laravel-package",
     "require": {
