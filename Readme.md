@@ -65,7 +65,7 @@ class UserTransformer extends TransformerAbstract
 
 ```
 
-And then, at your controller, if you are retrieven only one item:
+And then, at your controller, if you retrieve only one item:
 
 ```php
 
